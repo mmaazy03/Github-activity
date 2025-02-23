@@ -1,8 +1,9 @@
- ## GitHub-Activity
+ # GitHub-Activity
 
 This is a Node.js script that fetches a GitHub user's recent public activity events using the GitHub API and displays them in a human-readable format.
+Project URL: https://github.com/your-username/Github-activity
 
-Features
+## Features
 
 Asks for a GitHub username via the command line.
 
@@ -12,13 +13,13 @@ Displays events in a human-friendly format (e.g., "A user pushed commits to a re
 
 Handles errors (e.g., invalid usernames, API issues, etc.).
 
-Requirements
+## Requirements
 
 Node.js (v16 or later recommended)
 
 Internet connection
 
-Installation
+## Installation
 
 Clone the repository or download the script:
 
@@ -33,7 +34,7 @@ Install dependencies (if needed):
 
 npm install
 
-Usage
+## Usage
 
 Run the script using Node.js:
 
@@ -63,7 +64,7 @@ If the API request fails, it logs the error message.
 
 If the user has no recent events, it returns null values in the output.
 
-## License
+# License
 
 This project is licensed under the MIT License.
 
