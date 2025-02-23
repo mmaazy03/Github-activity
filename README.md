@@ -1,7 +1,7 @@
  # GitHub-Activity
 
 This is a Node.js script that fetches a GitHub user's recent public activity events using the GitHub API and displays them in a human-readable format.  
-project page URL: https://github.com/mmaazy03/Github-activity
+sample solution from the [github-user-activity](https://roadmap.sh/projects/github-user-activity)  
 
 
 ## Features
